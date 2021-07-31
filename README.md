@@ -37,3 +37,10 @@ https://github.com/beme/abide
 ### Versioning
 
 https://medium.com/@sjk/maintaining-api-versions-in-go-24bb4409a8a6
+
+
+### Logging
+
+https://medium.com/@jfeng45/go-microservice-with-clean-architecture-application-logging-b43dc5839bce
+
+https://github.com/jfeng45/servicetmpl
